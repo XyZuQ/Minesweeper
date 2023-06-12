@@ -38,12 +38,12 @@ W przypadku wygranej, która następuje po odkryciu wszystkich pól nie będący
 Cały kod został zakomentowany i dogłębnie wytłumaczony w pliku .cpp. Kod zawiera m.in. struct, wiele funkcji czy obsługę plików.
 
 **Biblioteki**
-<string>     Udostępnia funkcje i klasy służące do manipulowania zmiennymi string
-<cmath>      Udostępnia funkcje i operacje matematyczne
-<ctime>      Udostępnia funkcje do pracy z czasem i datą
-<cstdlib>    Zapewnia ogólne potrzebne funkcje (np. alokacja pamięci, generowanie liczb)
-<fstream>    Udostępnia operacje wejścia/wyjścia pliku, strumieniowa obsługa plików
-<Windows.h>  Zapewnia funkcjonalność specyficzną dla systemu Windows
+\<string>     Udostępnia funkcje i klasy służące do manipulowania zmiennymi string
+\<cmath>      Udostępnia funkcje i operacje matematyczne
+\<ctime>      Udostępnia funkcje do pracy z czasem i datą
+\<cstdlib>    Zapewnia ogólne potrzebne funkcje (np. alokacja pamięci, generowanie liczb)
+\<fstream>    Udostępnia operacje wejścia/wyjścia pliku, strumieniowa obsługa plików
+\<Windows.h>  Zapewnia funkcjonalność specyficzną dla systemu Windows
 
 **Podsumowanie**
 Projekt spełnia swój cel - gra w Saper działa. Spełnione są również minimalne wymagania techniczne projektu.
