@@ -94,17 +94,17 @@ The entire code is commented and thoroughly explained in the .cpp file. The code
 
 **Libraries**
 
-<string> Provides functions and classes for manipulating string variables.
+\<string> Provides functions and classes for manipulating string variables.
 
-<cmath> Provides mathematical functions and operations.
+\<cmath> Provides mathematical functions and operations.
 
-<ctime> Provides functions for working with time and date.
+\<ctime> Provides functions for working with time and date.
 
-<cstdlib> Provides general-purpose functions (e.g., memory allocation, random number generation).
+\<cstdlib> Provides general-purpose functions (e.g., memory allocation, random number generation).
 
-<fstream> Provides file input/output operations, stream-based file handling.
+\<fstream> Provides file input/output operations, stream-based file handling.
 
-<Windows.h> Provides Windows-specific functionality.
+\<Windows.h> Provides Windows-specific functionality.
 
 **Summary**
 
