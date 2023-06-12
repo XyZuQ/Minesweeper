@@ -260,7 +260,7 @@ void GameFunctions(){
     if((GetKeyState(question_mark) & 0x8000)){
         char should_save;
         system ("cls");
-        std::cout << "Do you want to save the game and exit?(y/n)" << std::endl;
+        std::cout << "Do you want to save the game and exit? (y/n)" << std::endl;
         std::cin >> should_save;
         if(should_save=='y'){
             // Get the save file name from the user
@@ -355,7 +355,7 @@ int main(){
     system("cls");
     //fragment used to determine if player does or does not want to load saved game
     char yes_no;
-        std::cout<<"Do you want to load game (y/n)"<<std::endl;
+        std::cout<<"Do you want to load game? (y/n)"<<std::endl;
         std::cin>>yes_no;
     switch(yes_no){
         case 'y':
