@@ -61,7 +61,7 @@ Cały kod został zakomentowany i dogłębnie wytłumaczony w pliku .cpp. Kod za
 
 **Podsumowanie**
 
-Projekt spełnia swój cel - gra w Saper działa. Spełnione są również minimalne wymagania techniczne projektu.
+Projekt spełnia swój cel - gra w Saper działa. Spełnione są również wymagania techniczne projektu.
 
 # **Minesweeper**
 The project is written in C++. The program allows the user to play Minesweeper (on Windows) by uncovering tiles, avoiding bombs, and using flags to mark potential bomb locations. The game state and board are updated based on user input, and the player can save and load the game.
@@ -108,4 +108,4 @@ The entire code is commented and thoroughly explained in the .cpp file. The code
 
 **Summary**
 
-The project fulfills its purpose - the Minesweeper game works. The minimum technical requirements of the project are also met.
+The project fulfills its purpose - the Minesweeper game works. The technical requirements of the project are also met.
